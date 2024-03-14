@@ -1,0 +1,7 @@
+E:\Net-Centric-Computing-Lab\Lab1\QuestionNo5\bin\Debug\QuestionNo5.exe.config
+E:\Net-Centric-Computing-Lab\Lab1\QuestionNo5\bin\Debug\QuestionNo5.exe
+E:\Net-Centric-Computing-Lab\Lab1\QuestionNo5\bin\Debug\QuestionNo5.pdb
+E:\Net-Centric-Computing-Lab\Lab1\QuestionNo5\obj\Debug\QuestionNo5.csproj.AssemblyReference.cache
+E:\Net-Centric-Computing-Lab\Lab1\QuestionNo5\obj\Debug\QuestionNo5.csproj.CoreCompileInputs.cache
+E:\Net-Centric-Computing-Lab\Lab1\QuestionNo5\obj\Debug\QuestionNo5.exe
+E:\Net-Centric-Computing-Lab\Lab1\QuestionNo5\obj\Debug\QuestionNo5.pdb
