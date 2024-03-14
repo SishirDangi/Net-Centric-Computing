@@ -1,0 +1,30 @@
+Lab 2
+
+1.      
+Write a C# program to add two digit using
+delegates.
+
+
+2.      
+Write a C# program to Add, Subtract,
+Multiply, Divide using OOP.
+
+
+3.      
+Write a C# program to Add, Subtract,
+Multiply, Divide using Interface.
+
+
+4.      
+Write a C# program to print 1 to 10 using
+generic list.
+
+
+5.      
+Write a C# program to print CustomerId
+and CustomerName using Dictionary.
+
+
+6.      
+Write a C# program to sort given name
+using LINQ. (Ram,Shyam,Hari,Bikash,Mahesh)
