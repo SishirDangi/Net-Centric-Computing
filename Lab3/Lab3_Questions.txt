@@ -1,0 +1,36 @@
+LAB-3
+
+
+1.      
+Write a program in C# Sharp to find the numbers
+of students who gets the marks greater than 80 using LINQ.
+
+
+2.      
+Write a program to find the upper case letter in
+string using LINQ.
+
+
+3.      
+Write a program in C# Sharp to find the numbers
+of an array and the square of each number using LINQ.
+
+
+4.      
+Write a program in C# Sharp to display the
+characters and frequency of character from the string given by the user.
+
+
+5.      
+Write a program in C# Sharp to find the string
+which starts and ends with a specific character.
+
+
+The cities are :
+'ROME','LONDON','NAIROBI','CALIFORNIA','ZURICH','NEWDELHI','AMSTERDAM','ABU
+DHABI','PARIS'
+
+
+6.      
+Write a program in C# Sharp for joining the two different
+objects data using LINQ
