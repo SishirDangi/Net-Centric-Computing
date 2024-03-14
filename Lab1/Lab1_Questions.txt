@@ -1,0 +1,29 @@
+LAB-1 Questions
+
+
+1.     Write a C#
+program to add two digit using constructor.
+
+
+2.     Write a C#
+program to display student Id and Name using automatic properties.
+
+
+3.     Write a C#
+program to reverse element of an array.
+
+
+4.     Write a C#
+program how Name of Students are stored and retrieved using indexer.
+
+
+5.     Write a C#
+program for showing single, multiple, multilevel and hierarchical inheritance.
+
+
+6.     Calculate
+area of rectangle using multiple inheritance in C#.
+
+
+7.     Write a C#
+program how virtual method are used in polymorphism.
