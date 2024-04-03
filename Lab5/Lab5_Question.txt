@@ -1,0 +1,7 @@
+LAB-5 Questions 
+
+1. Calculate the simple interest from user given amount and display the result in another page in
+asp.net core.
+2. Create the Asp.net core application for showing student information according to Student
+Name, Course and Semester given by user using model binding and model validation.
+3. Write a program to demonstrate the use of connected and disconnect architecture in Ado.net.

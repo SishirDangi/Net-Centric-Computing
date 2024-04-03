@@ -1,1 +1,5 @@
-Lab-4
+Lab-4 Questions
+1. Write a program to compare two numbers and display the largest number using form application.
+2. write a program to find the factors of numbers in windows form application.
+3. Make the windows as follows:
+

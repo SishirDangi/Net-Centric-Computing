@@ -1,0 +1,27 @@
+﻿<!-- Index.cshtml -->
+@model StudentInformation.Models.Student
+
+@{
+    ViewData["Title"] = "Search Student Information";
+}
+
+<h1>Search Student Information</h1>
+
+<form method="post" asp-action="Search">
+    <div class="form-group">
+        <label for="Name">Student Name:</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Course">Course:</label>
+        <input type="text" class="form-control" id="Course" name="Course" value="@Model.Course" />
+        <span asp-validation-for="Course" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Semester">Semester:</label>
+        <input type="number" class="form-control" id="Semester" name="Semester" value="@Model.Semester" />
+        <span asp-validation-for="Semester" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
