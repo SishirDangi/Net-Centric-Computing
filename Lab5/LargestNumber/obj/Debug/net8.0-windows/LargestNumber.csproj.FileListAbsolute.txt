@@ -1,0 +1,8 @@
+E:\Net-Centric-Computing-Lab\Lab5\LargestNumber\obj\Debug\net8.0-windows\LargestNumber.Form1.resources
+E:\Net-Centric-Computing-Lab\Lab5\LargestNumber\obj\Debug\net8.0-windows\LargestNumber.csproj.GenerateResource.cache
+E:\Net-Centric-Computing-Lab\Lab5\LargestNumber\obj\Debug\net8.0-windows\LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net-Centric-Computing-Lab\Lab5\LargestNumber\obj\Debug\net8.0-windows\LargestNumber.AssemblyInfoInputs.cache
+E:\Net-Centric-Computing-Lab\Lab5\LargestNumber\obj\Debug\net8.0-windows\LargestNumber.AssemblyInfo.cs
+E:\Net-Centric-Computing-Lab\Lab5\LargestNumber\obj\Debug\net8.0-windows\LargestNumber.csproj.CoreCompileInputs.cache
+E:\Net-Centric-Computing-Lab\Lab5\LargestNumber\obj\Debug\net8.0-windows\LargestNumber.sourcelink.json
+E:\Net-Centric-Computing-Lab\Lab5\LargestNumber\obj\Debug\net8.0-windows\NumberComparer.MainForm.resources
