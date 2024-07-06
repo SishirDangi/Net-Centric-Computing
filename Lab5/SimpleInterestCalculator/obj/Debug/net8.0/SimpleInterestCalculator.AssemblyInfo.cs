@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleInterestCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88e75dcdbee7b924c8780436becdbeb0c5905dd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44c2a065e43517b951b78bb2fe9f12301d8a23a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleInterestCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleInterestCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

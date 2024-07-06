@@ -1,0 +1,17 @@
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\bin\Debug\net8.0-windows\QuestionNo1.exe
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\bin\Debug\net8.0-windows\QuestionNo1.deps.json
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\bin\Debug\net8.0-windows\QuestionNo1.runtimeconfig.json
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\bin\Debug\net8.0-windows\QuestionNo1.dll
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\bin\Debug\net8.0-windows\QuestionNo1.pdb
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.Form1.resources
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.csproj.GenerateResource.cache
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.AssemblyInfoInputs.cache
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.AssemblyInfo.cs
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.csproj.CoreCompileInputs.cache
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.sourcelink.json
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.dll
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\refint\QuestionNo1.dll
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.pdb
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\QuestionNo1.genruntimeconfig.cache
+E:\Net-Centric-Computing-Lab\Lab4\QuestionNo1\obj\Debug\net8.0-windows\ref\QuestionNo1.dll

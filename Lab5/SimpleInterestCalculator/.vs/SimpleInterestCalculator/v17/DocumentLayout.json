@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FEB2E5-CC25-484D-ACB1-B4B15EE678F4}|SimpleInterestCalculator.csproj|E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97FEB2E5-CC25-484D-ACB1-B4B15EE678F4}|SimpleInterestCalculator.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FEB2E5-CC25-484D-ACB1-B4B15EE678F4}|SimpleInterestCalculator.csproj|E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FEB2E5-CC25-484D-ACB1-B4B15EE678F4}|SimpleInterestCalculator.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FEB2E5-CC25-484D-ACB1-B4B15EE678F4}|SimpleInterestCalculator.csproj|E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\pages\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97FEB2E5-CC25-484D-ACB1-B4B15EE678F4}|SimpleInterestCalculator.csproj|solutionrelative:pages\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FEB2E5-CC25-484D-ACB1-B4B15EE678F4}|SimpleInterestCalculator.csproj|e:\\net-centric-computing-lab\\lab5\\simpleinterestcalculator\\pages\\result.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FEB2E5-CC25-484D-ACB1-B4B15EE678F4}|SimpleInterestCalculator.csproj|solutionrelative:pages\\result.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cshtml.cs",
+              "DocumentMoniker": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\Pages\\Result.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Result.cshtml.cs",
+              "ToolTip": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\Pages\\Result.cshtml.cs",
+              "RelativeToolTip": "Pages\\Result.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:12:37.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\Pages\\Result.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Result.cshtml",
+              "ToolTip": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\Pages\\Result.cshtml",
+              "RelativeToolTip": "Pages\\Result.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T11:12:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:11:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "E:\\Net-Centric-Computing-Lab\\Lab5\\SimpleInterestCalculator\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T11:10:47.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
