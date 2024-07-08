@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shish\\CodeFirstExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|c:\\users\\shish\\codefirstexample\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|c:\\users\\shish\\codefirstexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|c:\\users\\shish\\codefirstexample\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|c:\\users\\shish\\codefirstexample\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|c:\\users\\shish\\codefirstexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|c:\\users\\shish\\codefirstexample\\codefirstexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDD1E8B7-11BB-449D-9176-0D576CD91029}|CodeFirstExample.csproj|solutionrelative:codefirstexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\CodeFirstExample\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shish\\CodeFirstExample\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:02:35.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\CodeFirstExample\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\shish\\CodeFirstExample\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:30:03.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\CodeFirstExample\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\shish\\CodeFirstExample\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:29:45.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeFirstExample",
+              "DocumentMoniker": "C:\\Users\\shish\\CodeFirstExample\\CodeFirstExample.csproj",
+              "RelativeDocumentMoniker": "CodeFirstExample.csproj",
+              "ToolTip": "C:\\Users\\shish\\CodeFirstExample\\CodeFirstExample.csproj",
+              "RelativeToolTip": "CodeFirstExample.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T16:27:12.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\CodeFirstExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\shish\\CodeFirstExample\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:27:48.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\CodeFirstExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shish\\CodeFirstExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:25:19.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
