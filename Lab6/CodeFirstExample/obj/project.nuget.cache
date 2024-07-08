@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3SpIRvwqwveLmMsxQCTc7kRL0vVKDel4005nCcGifcPUAHjr90vjCO5wbTNAUrQ6em+7xSxUJxf4zRgHZZj3fw==",
+  "dgSpecHash": "uxBs5DwxZ5Fo9hp0FypMVoWkDd9wuRHfkEK27UDyqI+64SjbBbMXYHb+TLPg1DRcP2wcL+dl7QwhPonJq8P8+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shish\\CodeFirstExample\\CodeFirstExample.csproj",
+  "projectFilePath": "E:\\Net-Centric-Computing-Lab\\Lab6\\CodeFirstExample\\CodeFirstExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shish\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\shish\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

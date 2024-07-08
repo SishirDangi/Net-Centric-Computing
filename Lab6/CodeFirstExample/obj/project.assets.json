@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shish\\CodeFirstExample\\CodeFirstExample.csproj",
+      "projectUniqueName": "E:\\Net-Centric-Computing-Lab\\Lab6\\CodeFirstExample\\CodeFirstExample.csproj",
       "projectName": "CodeFirstExample",
-      "projectPath": "C:\\Users\\shish\\CodeFirstExample\\CodeFirstExample.csproj",
+      "projectPath": "E:\\Net-Centric-Computing-Lab\\Lab6\\CodeFirstExample\\CodeFirstExample.csproj",
       "packagesPath": "C:\\Users\\shish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shish\\CodeFirstExample\\obj\\",
+      "outputPath": "E:\\Net-Centric-Computing-Lab\\Lab6\\CodeFirstExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shish\\AppData\\Roaming\\NuGet\\NuGet.Config",
